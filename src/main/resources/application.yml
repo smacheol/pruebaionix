@@ -25,3 +25,9 @@ servicio-busqueda:
   api-key: f2f719e0
   connect-time-out: 2
   read-time-out: 2
+
+#usuario admin
+usuario:
+  admin:
+    clave: admin
+    nombre-usuario: admin

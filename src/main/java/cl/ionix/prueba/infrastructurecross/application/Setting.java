@@ -22,4 +22,10 @@ public class Setting {
 
     @Value("${servicio-busqueda.api-key}")
     private String valorApiKey;
+
+    @Value("${usuario.admin.nombre-usuario}")
+    private String nombreUsuarioAdmin;
+
+    @Value("${usuario.admin.clave}")
+    private String claveAdmin;
 }
