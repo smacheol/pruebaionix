@@ -1,0 +1,2 @@
+INSERT INTO usuarios(name, username, email, phone) VALUES('Sebastian', 'SebaM', 'seba@sebam.cl', '988888888');
+INSERT INTO usuarios(name, username, email, phone) VALUES('Andres', 'AndresO', 'andres@andres.cl', '988888881');
