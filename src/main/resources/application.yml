@@ -15,3 +15,6 @@ spring:
       matching-strategy: ant_path_matcher
   datasource:
     url: jdbc:h2:mem:testdb
+
+des:
+  llave: ionix123456
