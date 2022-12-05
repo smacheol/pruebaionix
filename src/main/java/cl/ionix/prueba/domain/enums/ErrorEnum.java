@@ -9,7 +9,8 @@ public enum ErrorEnum {
 
     USUARIO_NO_ENCONTRADO("Error. Usuario no encontrado", "PRU-01"),
     USUARIO_NO_GUARDADO("Error. Usuario no guardado", "PRU-02"),
-    CIFRAR("Error. Error al cifrar", "PRU-03");
+    CIFRAR("Error. Error al cifrar", "PRU-03"),
+    SERVICIO_BUSQUEDA("Error. Error al consumir servicio de busqueda", "PRU-04");
 
     private String mensaje;
     private String codigo;

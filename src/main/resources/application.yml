@@ -18,3 +18,10 @@ spring:
 
 des:
   llave: ionix123456
+
+#servicio busqueada
+servicio-busqueda:
+  url: https://my.api.mockaroo.com/test-tecnico/search/%s
+  api-key: f2f719e0
+  connect-time-out: 2
+  read-time-out: 2
